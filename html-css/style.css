@@ -1,0 +1,17 @@
+.content{
+	text-align:center;
+	color:			#F0E68C	;
+	font-size:90px;
+	font-family: Comic Sans MS;
+	margin-top:150px;
+	margin-right: 90px;
+	margin-left: 90px;
+	background-color: #FF7F50;
+	border-top-left-radius:25%;
+	border-bottom-right-radius: 25%;
+	border-top-right-radius: 4%;
+	border-bottom-left-radius: 4%;
+}
+body{
+	background-color: #B22222;
+}
